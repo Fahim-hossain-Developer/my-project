@@ -1,0 +1,241 @@
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.banner-wrapper{
+	padding-top: 250px;
+}
+.banner-area .banner-wrapper .hi {
+    font-size: 40px;   
+}
+.banner-area .banner-wrapper h1 {
+    font-size: 40px; 
+}
+.banner-area .banner-wrapper h2 {
+    margin-top: 10px;
+    font-size: 40px;
+}
+.banner-area .banner-wrapper h2 span{
+	font-size: 40px;
+}
+.banner-area .banner-wrapper .buttons span {  
+     margin: 40px 0px 0;  
+}
+.about-area .abt-img img {
+    width: 100%;
+}
+.about-area .abt-wrapper h3 {   
+    margin-bottom: 30px;   
+}
+.about-area .abt-wrapper span {  
+    margin-bottom: 30px;   
+}
+.about-area .abt-wrapper p {    
+    margin-bottom: 30px;
+}
+.about-area{
+	padding-bottom: 110px;
+}
+.about-area .abt-wrapper .buttons span {
+    padding: 6px 15px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.brand-area .single-brand{
+	height: 80px;
+	width: 140px;
+	line-height: 40px;
+}
+.brand-area .experience .bg-panel {
+    width: 300px;
+    left: -235px;
+    height: 345px;
+}
+.brand-area .experience .years-area {
+    background: url(../images/client-info-bg.png) no-repeat 45px 20px;
+    height: 250px;
+}
+.service-area .single-service p {
+    font-size: 13px;
+}
+.service-area .single-service h3 {
+    font-size: 15px;
+}
+.counter-area .pricing-wrapper span {
+    font-size: 24px;
+}
+.counter-area .pricing-wrapper h4 {
+    font-size: 20px;
+}
+.client-area .client-slide .client-img img{
+ height: 90px;
+ width: 90px;
+ margin: 20px 0px;
+}
+.client-area .client-slide .client-img {
+    padding: 10px;
+}
+.client-area .client-slide .client-items p {
+    font-size: 13px;
+}
+.client-area .client-slide .client-items h3 {
+    font-size: 17px;
+}
+.subscribe-box {
+    width: 300px;
+    padding: 15px 15px;
+}
+.link-menu a {
+    margin-right: 13px;
+}
+.footer-content ul li {
+    line-height: 20px;
+}
+}
+/* MD Device :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+.banner-area .banner-wrapper {
+    padding-top: 200px;
+}
+.banner-area .banner-wrapper .hi {
+    font-size: 40px;   
+}
+.banner-area .banner-wrapper h1 {
+    font-size: 40px; 
+}
+.banner-area .banner-wrapper h2 {
+    margin-top: 10px;
+    font-size: 40px;
+}
+.banner-area .banner-wrapper h2 span{
+	font-size: 40px;
+}
+.about-area{
+	padding-bottom: 180px;
+}
+.about-area .abt-img img {
+    width: 100%;
+}
+.about-area .abt-wrapper h3 {   
+    margin-bottom: 30px;   
+}
+.about-area .abt-wrapper span {  
+    margin-bottom: 30px;   
+}
+.about-area .abt-wrapper p {    
+    margin-bottom: 30px;
+}
+.about-area .buttons {
+    margin-left: 38%;
+}
+.brand-area{
+	padding-top: 20px;
+}
+.brand-area .experience {
+   margin: 0;
+    margin-top: 30px;
+}
+.counter-area .pricing-wrapper {
+    padding: 75px 0px;
+}
+.counter-area .pricing-wrapper h4 {
+    font-size: 15px;
+}
+.counter-area .pricing-wrapper .icon {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+.counter-area .pricing-wrapper span {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.subscribe-box {
+    width: 350px;
+}
+.subscribe-box h2 {
+    font-size: 25px;
+}
+.footer-content{
+	margin-top: 20px;
+}
+.footer-address{
+	margin-top: 20px;
+}
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+.banner-area .banner-wrapper {
+    padding-top: 200px;
+}
+.banner-area .banner-wrapper .hi {
+    font-size: 40px;   
+}
+.banner-area .banner-wrapper h1 {
+    font-size: 40px; 
+}
+.banner-area .banner-wrapper h2 {
+    margin-top: 10px;
+    font-size: 40px;
+}
+.banner-area .banner-wrapper h2 span{
+	font-size: 40px;
+}
+.about-area{
+	padding-bottom: 180px;
+}
+.about-area .abt-img img {
+    width: 100%;
+}
+.brand-area .experience {
+   margin: 0;
+    margin-top: 30px;
+    margin-left: -36px;
+}
+.counter-area .pricing-wrapper h4 {
+    font-size: 15px;
+}
+.footer-content{
+	margin-top: 20px;
+}
+.footer-address{
+	margin-top: 20px;
+}
+.copyright p {
+    font-size: 16px;
+}
+.about-area .buttons {
+    margin-left: 38%;
+}
+ 
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+.banner-area .banner-wrapper .hi {
+    font-size: 20px;   
+}
+.banner-area .banner-wrapper h1 {
+    font-size: 20px; 
+}
+.banner-area .banner-wrapper h2 {
+    margin-top: 10px;
+    font-size: 20px;
+}
+.banner-area .banner-wrapper h2 span{
+	font-size: 20px;
+}
+.about-area{
+	padding-bottom: 180px;
+}
+}

@@ -1,0 +1,143 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+.service-area {
+    margin-top: 0;
+    padding-top: 100px;
+}
+.single-slide h3 {
+    font-size: 45px;
+}
+.img > img{
+  width: 100%;
+}
+.price-part {
+    padding: 0px 15px;
+}
+.blog-img img {
+    width: 100%;
+}
+.butn a {
+    margin-right: -20px;
+    margin-top: 23px;
+}
+.menu nav ul li {
+	margin-left: 10px;
+}
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.logo {
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.service-area {
+    margin-top: 0;
+    padding-top: 100px;
+}
+.single-slide h3 {
+    font-size: 35px;
+}
+.single-slide p {
+	margin-bottom: 30px;
+}
+.services{
+padding: 40px 0px;
+	margin: 20px 0px;
+}
+.theme .row .col-xl-4 {
+	
+	border-bottom: 1px solid rgba(66, 35, 35);
+}
+.theme .row .col-xl-4:last-child{
+    border: none;
+}
+.subscribe-part input {
+	width: 22%;
+}
+.price-part {
+	width: 225px;
+}
+.blog-items a {
+	padding: 15px 35px;
+}
+.copy-list li {
+	margin-left: 25px;
+}
+.single-slide {
+	background-size: cover;
+}
+header::before {
+	height: 0;
+	width: 0%;
+	background: #d6d4d3;
+}
+.header-area {
+	padding-top: 22px;
+}
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+.logo {
+    padding-top: 20px;
+}
+.service-area {
+    margin-top: 0;
+    padding-top: 100px;
+}
+.single-slide h3 {
+    font-size: 35px;
+}
+.single-slide p {
+	margin-bottom: 30px;
+}
+.services{
+padding: 40px 0px;
+	margin: 20px 0px;
+}
+.subscribe-part input {
+	width: 100%;
+	margin-bottom: 20px;
+}
+.price-part {
+	width: 100%;
+	margin-bottom: 20px;
+}
+.mean-container a.meanmenu-reveal {
+	margin-top: -35px;
+}
+header::before {
+	height: 0;
+	width: 0%;
+	background: #d6d4d3;
+}
+.counter-wrapper {
+	margin-bottom: 35px;
+}
+.client-wrapper {
+	padding: 50px 30px;
+}
+.footer-widget h3 {
+	margin-top: 20px;
+}
+.copy-list li {
+	margin-left: 0;
+}
+
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+}
